@@ -1,0 +1,15 @@
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Application.deps.json
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Application.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Application.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Core.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\bin\Debug\net8.0\Basket.Core.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.csproj.AssemblyReference.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.AssemblyInfoInputs.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.AssemblyInfo.cs
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.csproj.CoreCompileInputs.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.A.E41EB0DD.Up2Date
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\refint\Basket.Application.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\ref\Basket.Application.dll

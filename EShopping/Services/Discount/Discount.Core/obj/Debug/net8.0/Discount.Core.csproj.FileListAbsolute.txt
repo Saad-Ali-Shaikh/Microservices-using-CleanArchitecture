@@ -1,0 +1,11 @@
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.deps.json
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\bin\Debug\net8.0\Discount.Core.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.AssemblyInfoInputs.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.AssemblyInfo.cs
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.csproj.CoreCompileInputs.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\obj\Debug\net8.0\refint\Discount.Core.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\obj\Debug\net8.0\Discount.Core.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Core\obj\Debug\net8.0\ref\Discount.Core.dll

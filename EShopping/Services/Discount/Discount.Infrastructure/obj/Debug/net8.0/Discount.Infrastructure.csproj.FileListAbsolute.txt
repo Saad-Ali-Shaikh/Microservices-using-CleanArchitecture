@@ -1,0 +1,17 @@
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\bin\Debug\net8.0\Discount.Infrastructure.deps.json
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\bin\Debug\net8.0\Discount.Infrastructure.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\bin\Debug\net8.0\Discount.Infrastructure.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\Discount.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\Discount.Infrastructure.AssemblyInfoInputs.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\Discount.Infrastructure.AssemblyInfo.cs
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\Discount.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\Discount.Infrastructure.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\refint\Discount.Infrastructure.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\Discount.Infrastructure.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\ref\Discount.Infrastructure.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\bin\Debug\net8.0\Discount.Application.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\bin\Debug\net8.0\Discount.Core.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\bin\Debug\net8.0\Discount.Application.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\bin\Debug\net8.0\Discount.Core.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\Discount.Infrastructure.csproj.AssemblyReference.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Infrastructure\obj\Debug\net8.0\Discount.DF031D83.Up2Date

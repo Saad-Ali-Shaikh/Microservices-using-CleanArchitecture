@@ -1,0 +1,15 @@
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.deps.json
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Application.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\bin\Debug\net8.0\Catalog.Core.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.AssemblyReference.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfoInputs.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.AssemblyInfo.cs
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.csproj.CoreCompileInputs.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog..75771DFE.Up2Date
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\refint\Catalog.Application.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\ref\Catalog.Application.dll
