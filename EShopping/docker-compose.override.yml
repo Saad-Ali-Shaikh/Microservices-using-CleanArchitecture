@@ -32,7 +32,6 @@ services:
             timeout: 5s
             retries: 5
     
-
     catalog.api:
         container_name: "catalog.api"
         environment:
@@ -55,6 +54,7 @@ services:
           - ASPNETCORE_ENVIRONMENT=Development
           - CacheSettings__ConnectionString=basketdb:6379
           - ASPNETCORE_HTTP_PORTS=8080
+          - GrpcSettings__DiscountUrl=http://discount.api:8080
         depends_on:
           - basketdb
         ports:
@@ -69,7 +69,7 @@ services:
             discountdb:
                 condition: service_healthy
         ports:
-          - "8082:8080"
+          - "8002:8080"
         volumes:
           - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
           - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro

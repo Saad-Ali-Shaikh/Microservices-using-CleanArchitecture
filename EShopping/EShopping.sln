@@ -29,13 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basket.Application", "Servi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{D5E43CB8-86A4-4023-8DD1-21ABDB6057EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.Core", "Services\Discount\Discount.Core\Discount.Core.csproj", "{5E2B4683-6D02-4B2B-B911-15350512C886}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount.Core", "Services\Discount\Discount.Core\Discount.Core.csproj", "{5E2B4683-6D02-4B2B-B911-15350512C886}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.Application", "Services\Discount\Discount.Application\Discount.Application.csproj", "{202436E1-AEF2-47F4-B9E2-F0E9A7938319}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount.Application", "Services\Discount\Discount.Application\Discount.Application.csproj", "{202436E1-AEF2-47F4-B9E2-F0E9A7938319}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.Infrastructure", "Services\Discount\Discount.Infrastructure\Discount.Infrastructure.csproj", "{1CE86744-7BD0-4AD1-9DE4-39DAA361DF9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount.Infrastructure", "Services\Discount\Discount.Infrastructure\Discount.Infrastructure.csproj", "{1CE86744-7BD0-4AD1-9DE4-39DAA361DF9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discount.API", "Services\Discount\Discount.API\Discount.API.csproj", "{06381EE5-A103-4C1B-BC30-9380000A6BE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discount.API", "Services\Discount\Discount.API\Discount.API.csproj", "{06381EE5-A103-4C1B-BC30-9380000A6BE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
