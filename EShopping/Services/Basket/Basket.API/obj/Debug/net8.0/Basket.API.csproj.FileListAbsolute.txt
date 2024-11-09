@@ -51,3 +51,11 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.API\obj\Debug\net8.0\Basket.API.sourcelink.json

@@ -9,3 +9,4 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Core\obj\Debug
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Core\obj\Debug\net8.0\refint\Basket.Core.dll
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.pdb
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Core\obj\Debug\net8.0\ref\Basket.Core.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Core\obj\Debug\net8.0\Basket.Core.sourcelink.json

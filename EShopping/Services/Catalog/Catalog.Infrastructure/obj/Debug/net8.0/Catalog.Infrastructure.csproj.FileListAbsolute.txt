@@ -18,3 +18,4 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Infrastructu
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\brands.json
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\products.json
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\types.json
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.sourcelink.json

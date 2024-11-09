@@ -10,3 +10,4 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Core\obj\Deb
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.AssemblyReference.cache
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json

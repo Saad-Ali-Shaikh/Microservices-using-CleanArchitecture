@@ -1,4 +1,5 @@
 ﻿using Basket.Application.Commands;
+using Basket.Application.GrpcService;
 using Basket.Application.Queries;
 using Basket.Application.Responses;
 using MediatR;
@@ -12,6 +13,7 @@ namespace Basket.API.Controllers
     {
         private IMediator mediator { get; }
         private readonly ILogger<BasketController> _logger;
+
         public BasketController(IMediator mediator, ILogger<BasketController> logger)
         {
             this.mediator = mediator;

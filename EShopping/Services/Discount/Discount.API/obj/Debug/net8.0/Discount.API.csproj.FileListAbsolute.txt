@@ -48,3 +48,4 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.API\bin\De
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.API\bin\Debug\net8.0\Discount.Application.pdb
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.API\bin\Debug\net8.0\Discount.Infrastructure.pdb
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.API\bin\Debug\net8.0\Discount.Core.pdb
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.API\obj\Debug\net8.0\Discount.API.sourcelink.json

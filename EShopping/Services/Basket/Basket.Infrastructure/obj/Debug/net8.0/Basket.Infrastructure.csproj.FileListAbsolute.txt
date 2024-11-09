@@ -15,3 +15,4 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Infrastructure
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Infrastructure\bin\Debug\net8.0\Basket.Core.pdb
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\Basket.Infrastructure.csproj.AssemblyReference.cache
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\Basket.I.99EAA0BF.Up2Date
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Infrastructure\obj\Debug\net8.0\Basket.Infrastructure.sourcelink.json

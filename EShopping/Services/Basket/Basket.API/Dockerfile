@@ -8,13 +8,13 @@ EXPOSE 8080
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["Basket/Basket.API/Basket.API.csproj", "Basket/Basket.API/"]
-COPY ["Basket/Basket.Application/Basket.Application.csproj", "Basket/Basket.Application/"]
-COPY ["Basket/Basket.Core/Basket.Core.csproj", "Basket/Basket.Core/"]
-COPY ["Basket/Basket.Infrastructure/Basket.Infrastructure.csproj", "Basket/Basket.Infrastructure/"]
-RUN dotnet restore "./Basket/Basket.API/Basket.API.csproj"
+COPY ["Services/Basket/Basket.API/Basket.API.csproj", "Services/Basket/Basket.API/"]
+COPY ["Services/Basket/Basket.Application/Basket.Application.csproj", "Services/Basket/Basket.Application/"]
+COPY ["Services/Basket/Basket.Core/Basket.Core.csproj", "Services/Basket/Basket.Core/"]
+COPY ["Services/Basket/Basket.Infrastructure/Basket.Infrastructure.csproj", "Services/Basket/Basket.Infrastructure/"]
+RUN dotnet restore "./Services/Basket/Basket.API/Basket.API.csproj"
 COPY . .
-WORKDIR "/src/Basket/Basket.API"
+WORKDIR "/src/Services/Basket/Basket.API"
 RUN dotnet build "./Basket.API.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 FROM build AS publish

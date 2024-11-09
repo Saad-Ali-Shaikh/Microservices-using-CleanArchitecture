@@ -13,3 +13,4 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\ob
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\refint\Basket.Application.dll
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.pdb
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\ref\Basket.Application.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Basket\Basket.Application\obj\Debug\net8.0\Basket.Application.sourcelink.json

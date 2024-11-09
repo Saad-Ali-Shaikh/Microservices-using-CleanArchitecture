@@ -60,3 +60,4 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.API\obj\Debu
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.sourcelink.json

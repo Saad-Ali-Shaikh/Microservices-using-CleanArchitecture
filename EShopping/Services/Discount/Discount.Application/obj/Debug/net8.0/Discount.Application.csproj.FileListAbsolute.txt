@@ -13,3 +13,4 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Applicatio
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Application\bin\Debug\net8.0\Discount.Core.pdb
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.csproj.AssemblyReference.cache
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.FBECC352.Up2Date
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Discount\Discount.Application\obj\Debug\net8.0\Discount.Application.sourcelink.json

@@ -13,3 +13,4 @@ C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\refint\Catalog.Application.dll
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.pdb
 C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\ref\Catalog.Application.dll
+C:\Saad\Dev\SourceCode\EShopping\EShopping\Services\Catalog\Catalog.Application\obj\Debug\net8.0\Catalog.Application.sourcelink.json
